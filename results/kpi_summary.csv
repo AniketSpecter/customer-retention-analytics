@@ -1,0 +1,13 @@
+KPI,Value,Definition
+Customers,10000.0,Number of unique customer records
+Overall churn rate,0.2037,Exited customers / all customers
+Overall retention rate,0.7963,Retained customers / all customers
+Active member rate,0.5151,Active customers / all customers
+Engagement retention ratio,0.8573092603377985,Retention among active members
+Average products per customer,1.5302,Average product count
+Product depth index,0.38255,Average products normalized by observed maximum
+High-balance threshold,127644.24,75th percentile of customer balance
+High-balance disengagement rate,0.4988,Inactive share among top-quartile balance customers
+High-balance inactive churn rate,0.30473135525260625,Churn among inactive top-quartile balance customers
+Credit card stickiness score,0.798157335223246,Retention among credit-card holders
+Average relationship strength index,57.51077000000001,Composite engagement and relationship score (0-100)

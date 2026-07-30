@@ -1,0 +1,20 @@
+{
+  "ROC_AUC": 0.8545,
+  "Accuracy": 0.8435,
+  "Precision": 0.6083,
+  "Recall": 0.6486,
+  "F1_Score": 0.6278,
+  "Confusion_Matrix": [
+    [
+      1423,
+      170
+    ],
+    [
+      143,
+      264
+    ]
+  ],
+  "Test_Set_Size": 2000,
+  "Decision_Threshold": 0.5,
+  "Excluded_Protected_Feature": "Gender"
+}

@@ -1,0 +1,16 @@
+app.py - Streamlit dashboard
+analytics.py - data validation, feature engineering, KPI and filter logic
+modeling.py - fairness-aware churn model
+requirements.txt - Python dependencies
+README.md - repository documentation and deployment steps
+SUBMISSION_GUIDE.md - four-link submission instructions
+VIDEO_SCRIPT.md - project feedback video narration
+Customer_Retention_Analysis.ipynb - reproducible analysis notebook
+Customer_Retention_Analysis_Executed.ipynb - executed notebook with outputs
+data/European_Bank.csv - supplied dataset
+results/ - enriched analytics, KPI tables and customer priority files
+docs/ - research report and executive summary in DOCX and PDF
+assets/ - report charts
+run_dashboard.bat - one-click Windows setup and launch
+run_dashboard.sh - Linux/macOS setup and launch
+VALIDATION_REPORT.txt - final technical and document QA results
